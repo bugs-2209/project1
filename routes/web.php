@@ -13,11 +13,13 @@ use Illuminate\Support\Facades\Route;
 |
 */
 
-Route::group(['prefix' => '/', 'as' => 'client.', 'namespace' => 'Client'], function() {
-    //Home - Trang chủ
-    Route::get('/', 'ClientController@index')->name('index');
+Route::get('/', function () {
+    return view('welcome');
 });
 
-Auth::routes();
+// Auth::routes();
 
-Route::get('/home', 'AdminController@index')->name('home');
+Route::group(['prefix' => '/admin', 'namespace' => 'Admin', 'as' => 'admin'], function () {
+    //Dashboard
+    Route::get('/dashboard', 'HomeController@index')->name('dashboard');
+});

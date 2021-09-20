@@ -15,7 +15,6 @@
     "tests"
   ],
   "dependencies": {
-    "html-metronic": "https://github.com/cuongnc-2209/html-metronic.git",
-    "client-pizza": "https://github.com/cuongnc-2209/client-pizza.git"
+    "html-metronic": "https://github.com/cuongnc-2209/html-metronic.git"
   }
 }
