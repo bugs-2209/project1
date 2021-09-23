@@ -14,7 +14,7 @@
             {{-- Content --}}
             @yield('content')
             {{-- Footer --}}
-            @include('layouts.client.sections.header')
+            @include('layouts.client.sections.footer')
         </div>
         @include('layouts.client.assets.js')
     </body>

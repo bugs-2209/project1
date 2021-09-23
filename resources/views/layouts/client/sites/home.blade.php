@@ -660,68 +660,6 @@
                         </ul>
                     </div>
                 </div>
-                <div class="section-product"  style="background-size: cover; background-image: url( {{asset('bower_components/client-pizza/assets/images/homepage-banners/6.png')}}); height: 556px;">
-                    <div class="product-wrapper">
-                        <div class="product-inner">
-                            <a href="single-product-v1.html" class="woocommerce-LoopProduct-link">
-                                <h3>Pepperoni Pizza</h3>
-                                <div itemprop="description">
-                                    <p>Extra-virgin olive oil, garlic, mozzarella cheese, onions, mushrooms, green olives, black olives, fresh tomatoes.</p>
-                                </div>
-                                <div class="yith_wapo_groups_container">
-                                    <div class="ywapo_group_container ywapo_group_container_radio form-row form-row-wide " data-requested="1" data-type="radio" data-id="1" data-condition="">
-                                        <h3><span>Pick Size</span></h3>
-                                        <div class="ywapo_input_container ywapo_input_container_radio">
-                                            <span class="ywapo_label_tag_position_after">
-                                            <span class="ywapo_option_label ywapo_label_position_after">22  cm</span>
-                                            </span>
-                                            <span class="ywapo_label_price"><span class="woocommerce-Price-amount amount"><span class="woocommerce-Price-currencySymbol">&#36;</span>19.90</span></span>
-                                        </div>
-                                        <div class="ywapo_input_container ywapo_input_container_radio">
-                                            <span class="ywapo_label_tag_position_after">
-                                            <span class="ywapo_option_label ywapo_label_position_after">29  cm</span>
-                                            </span>
-                                            <span class="ywapo_label_price"> <span class="woocommerce-Price-amount amount"><span class="woocommerce-Price-currencySymbol">&#36;</span>25.90</span></span>
-                                        </div>
-                                    </div>
-                                </div>
-                            </a>
-                            <a rel="nofollow" href="single-product-v1.html" data-quantity="1" data-product_id="82" data-product_sku="" class="button product_type_simple add_to_cart_button ajax_add_to_cart">Add to cart</a>
-                        </div>
-                    </div>
-                </div>
-                <div class="features-list" >
-                    <div class="row">
-                        <div class="feature col-xs-12 col-sm-3">
-                            <div class="feature-icon"><i class="po po-best-quality"></i></div>
-                            <div class="feature-label">
-                                <h4>Best Quality</h4>
-                                <p>Praesent pulvinar neque pellentesque mattis pretium.</p>
-                            </div>
-                        </div>
-                        <div class="feature col-xs-12 col-sm-3">
-                            <div class="feature-icon"><i class="po po-on-time"></i></div>
-                            <div class="feature-label">
-                                <h4>On Time</h4>
-                                <p>Praesent pulvinar neque pellentesque mattis pretium.</p>
-                            </div>
-                        </div>
-                        <div class="feature col-xs-12 col-sm-3">
-                            <div class="feature-icon"><i class="po po-master-chef"></i></div>
-                            <div class="feature-label">
-                                <h4>MasterChefs</h4>
-                                <p>Praesent pulvinar neque pellentesque mattis pretium.</p>
-                            </div>
-                        </div>
-                        <div class="feature col-xs-12 col-sm-3">
-                            <div class="feature-icon"><i class="po po-ready-delivery"></i></div>
-                            <div class="feature-label">
-                                <h4>Taste Food</h4>
-                                <p>Praesent pulvinar neque pellentesque mattis pretium.</p>
-                            </div>
-                        </div>
-                    </div>
-                </div>
             </main>
             <!-- #main -->
         </div>
